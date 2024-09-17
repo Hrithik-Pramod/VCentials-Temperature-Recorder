@@ -1,4 +1,4 @@
-package com.firebase.vcentinals;
+package com.firebase.vcentinals.controller;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseAuthException;

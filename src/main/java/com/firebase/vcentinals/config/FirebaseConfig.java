@@ -1,4 +1,4 @@
-package com.firebase.vcentinals;
+package com.firebase.vcentinals.config;
 
 import com.google.auth.oauth2.GoogleCredentials;
 import com.google.firebase.FirebaseApp;
